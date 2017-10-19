@@ -1,0 +1,214 @@
+*{
+    margin:0;
+    padding:0;
+}
+#wrapper{
+    width:750px;
+    height:auto;
+}
+
+.bluenet{
+    color:lightblue;
+}
+.bold{
+    font-weight: bold;
+}
+.strongbold{
+    font-weight: bold;
+    margin: 0 0 10px 0px;
+}
+#header{
+    width:750px;
+    height:105px;
+}
+#globe{
+    height:70px;
+    width:70px;
+    display:inline-block;
+    margin:0 0 105px 0px;
+    position: absolute;
+}
+h1{
+    margin:0 0 0px 80px;
+    display:inline-block;
+    padding: 15px 0 0 0;
+    
+    
+}
+h2{
+    color:white;
+    padding: 15px 0 15px 30px;
+    width: 750px;
+    margin:0px 0 0 0;
+    display:inline-block;
+    vertical-align: top;
+    background: linear-gradient(#3486a7, #74909b, #3486a7);
+}
+
+#leftCollum{
+    margin:30px 0 0 5px;
+    width:200px;
+    display: inline-block;
+}
+
+
+#rednet{
+    color:red;
+}
+
+#darkbluebutton{
+    width:150px;
+    height:30px;
+    background-color:#1a146e;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    color: white;
+    
+    border-radius: 5px;
+    /*#2450768*/
+    margin-left:25px;
+}
+#orangebutton{
+    width:150px;
+    height:30px;
+    background-color:#b64c05;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    color: white;
+   
+    border-radius: 5px;
+    /*#2450768*/
+    margin-left:25px;
+}
+
+
+#septeration{
+    height:20px;
+}
+#septerationa{
+    height:20px;
+    border-top: 1px gray solid;
+}
+
+#ninjaImg{
+    background-image: url("ad_background.png");
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    width:175px;
+    height:240px;
+    margin-left:15px;
+}
+#whitetext{
+    color:white;
+    font-size: 20px;
+    padding:20px 15px 0px 15px;
+    text-align: center;
+}
+
+
+#ninja{
+    width:60px;
+    height:80px;
+    padding:0px 0 0 55px;
+ 
+}
+#cyanbutton{
+    width:135px;
+    height:30px;
+    background-color:#201ce0;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    padding:0 0 0 0px;
+    margin-left: 15px;
+}
+
+#rightCollum{
+    width:500px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 20px 0 0 20px;
+}
+
+#houseandphone{
+    width:500px;
+    height:51px;
+    border-bottom: 1px solid gray;
+    vertical-align: top;
+    display: inline-block;
+}
+#tinyhouse{
+    width:20px;
+    height:20px;
+    display: inline-block;
+    vertical-align: top;
+}
+#tinyhousetxt{
+    color:blue;
+    display: inline-block;
+    vertical-align: top;
+}
+#phone{
+    display: inline-block;
+    vertical-align: top;
+}
+#dns{
+    display: inline-block;
+    vertical-align: top;
+}
+#tinyphone{
+    margin: 0 0 0 300px;
+    width: 35px;
+    height: 35px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+.tinytext{
+    font-size: 6px;
+    display:block;
+    vertical-align: top;
+
+    
+}
+.indent{
+    margin:0 0 0 50px;
+}
+#bigblue{
+    font-size: 15px;
+    color:cyan;
+    display: block;
+    vertical-align: top;
+    
+    
+}
+
+.titleblue{
+    color:blue;
+}
+.lightblue{
+    color:cyan;
+}
+#clientserv{
+    height: 80px;
+    width: 200px;
+    margin:0 0 0 160px;
+}
+
+#bigThree{
+    display: inline-block;
+    vertical-align: top;
+    border: rgb(48, 82, 192) 5px solid;
+}
+
+#bigthreeimg{
+    width: 90px;
+    height: 80px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px 0 0 0;
+}
+#lastone{
+    display: inline-block;
+    vertical-align: top;
+    width: 385px;
+    margin: 10px 0 0 10px;
+}
